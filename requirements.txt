@@ -31,7 +31,7 @@ idna==2.10
 importlib-metadata==6.6.0
 itsdangerous==2.1.2
 jeepney==0.8.0
-Jinja2==3.1.2
+Jinja2==3.1.4
 jsonschema==4.17.3
 lz4==4.3.2
 markdown-it-py==3.0.0
