@@ -43,7 +43,7 @@ outcome==1.2.0
 packaging==23.1
 pandas==1.5.3
 Pillow==9.5.0
-protobuf==3.20.3
+protobuf==4.25.8
 pyarrow==12.0.1
 pycparser==2.21
 pycryptodomex==3.18.0
@@ -78,7 +78,7 @@ trio==0.22.0
 trio-websocket==0.10.3
 typing_extensions==4.6.3
 tzlocal==5.0.1
-urllib3==2.0.3
+urllib3==2.5.0
 validators==0.20.0
 watchdog==3.0.0
 websocket-client==1.5.3
